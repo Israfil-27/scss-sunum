@@ -1,0 +1,25 @@
+// // variables & functions
+// @import "variables";
+// @import "functions";
+
+// // base & layout
+@import "base";
+@import "mixin";
+// @import "breakpoint";
+// @import "grid";
+// // colors
+// @import "colors";
+@import "header";
+@import "main";
+// // components (buttons, cards, etc.)
+// @import "components/card";
+// @import "components/button";
+// @import "navbars";
+
+// // utilities (helpers, modifiers, margin, padding, etc.)
+// @import "utilities"
+@import "footer";
+////
+/// scss page 1
+/// 
+// @import "page2/header-page1";

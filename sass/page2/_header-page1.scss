@@ -1,0 +1,21 @@
+#header{
+    @include flex;
+    flex-direction: column;
+    background-color: #f8f8f8;
+    h1{
+        font-size: 3.5rem;
+        color: #c69;
+    }
+    p{
+        font-size: 1.5rem;
+        color: #c69;
+    }
+
+}
+#bbb{
+    background-color: #c69 !important;
+    color: red;
+    h2{
+        color: red;
+    }
+}

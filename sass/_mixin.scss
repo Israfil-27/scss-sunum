@@ -1,0 +1,9 @@
+@mixin flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@mixin fullD{
+    width: 100%;
+    height: 100%;
+}
